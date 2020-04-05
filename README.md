@@ -5,3 +5,7 @@ Find rectangles that can fit into square of N-sized side. All rectangles must be
 The difference between the biggest and the smallest rectangle must be as little as possible.
 
 The task is to find the most optimal solution.
+
+This program works, however it's still in progress:
+- not all possible solutions are found
+- not always the best solution
